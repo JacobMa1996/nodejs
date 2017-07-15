@@ -1,0 +1,2 @@
+this is a readableStream
+这是一个可读流
