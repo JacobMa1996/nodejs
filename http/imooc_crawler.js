@@ -6,8 +6,8 @@ http.get(url,function(res) {
     var html = '';
 
     res.on('data',function(data) {
-        html += data;
-    })
+        html += data;//输出慕课网的html代码
+    });
 
     res.on('end',function () {
         console.log(html);
