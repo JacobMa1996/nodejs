@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MatthewMaYao/nodejs#readme",
   "dependencies": {
-    "node-fetch": "^2.0.0"
+    "node-fetch": "^2.0.0",
+    "thunkify": "^2.1.2"
   }
 }
